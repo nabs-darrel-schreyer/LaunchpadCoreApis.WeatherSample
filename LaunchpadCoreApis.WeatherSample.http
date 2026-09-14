@@ -1,0 +1,6 @@
+@LaunchpadCoreApis.WeatherSample_HostAddress = http://localhost:5079
+
+GET {{LaunchpadCoreApis.WeatherSample_HostAddress}}/weatherforecast
+Accept: application/json
+
+###
